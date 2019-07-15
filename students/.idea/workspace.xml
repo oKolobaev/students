@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cf418b4-0d46-4d33-98c4-a3207eee31d6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/frame/StudentsFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frame/StudentsFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/students/logic/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/students/logic/Group.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/students/logic/ManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/students/logic/ManagementSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/students/logic/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/students/logic/Student.java" afterDir="false" />
-    </list>
+    <list default="true" id="0cf418b4-0d46-4d33-98c4-a3207eee31d6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/frame/StudentsFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1598">
-              <caret line="101" column="5" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+            <state relative-caret-position="153">
+              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -171,7 +166,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563224141482" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563224488431" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -334,8 +329,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/frame/StudentsFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="101" column="5" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+        <state relative-caret-position="153">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
         </state>
       </provider>
     </entry>
