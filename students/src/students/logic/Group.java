@@ -43,7 +43,7 @@ public class Group {
         this.speciality = speciality;
     }
 
-    public String toSrtring(){
+    public String toString(){
         return nameGroup;
     }
 }
