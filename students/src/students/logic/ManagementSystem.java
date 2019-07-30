@@ -9,11 +9,12 @@ public class ManagementSystem {
     private static Connection con;
     private static ManagementSystem instance;
 
+
     private ManagementSystem() throws Exception {
         try {
-            Class.forName("com.mysql.jdbc.Driver");
-            String url = "jdbc:mysql://localhost:3306/students";
-            con = DriverManager.getConnection(url, "root", "root");
+            Class.forName("org.postgresql.Driver");
+            String url = "jdbc:postgresql://localhost:5432/students";
+            con = DriverManager.getConnection(url, "postgres", "postgres");
         } catch (ClassNotFoundException e) {
             throw new Exception(e);
         } catch (SQLException e) {
